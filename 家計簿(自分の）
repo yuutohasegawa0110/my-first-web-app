@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <mata name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>My 家計簿</title>
+        <Link rel="stylesheet" href="./style.css" />
+        <Link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1>私の貯金額</h1>
+        <div class="money">
+            <p>7万8千円</p>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h2>これから使うお金</h2>
+        <ul>
+            <li>電車の定期  -8130円</li>
+            <li>自転車の定期 -4480円</li>
+            <li>食費 およそ-10000円</li>
+            <li>美容院代 -3500円</li>
+        </ul>
+        <br><br><br><br>
+        <h2>残りのお金</h2>
+        <div class="a">
+            <h1>51890円</h1>
+        </div>
+        <div class="picture">
+            <img src="https://pbs.twimg.com/media/C3qMfToUcAEK6aA.jpg">
+        </div>
+        <div class="pokemon">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82MWkt9bMyM3wNV8CWrCeMM77LpEeUz3iKQ&s">
+        </div>
+    </body>
+</html>
